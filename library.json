@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-thermocouple-amplifier-max31855-breakout",
+  "title": "thermocouple-amplifier-max31855-breakout",
+  "keywords": "thermocouple-amplifier-max31855-breakout, esp32, esp8266, arduino",
+  "description": "thermocouple-amplifier-max31855-breakout plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-thermocouple-amplifier-max31855-breakout/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-thermocouple-amplifier-max31855-breakout/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
